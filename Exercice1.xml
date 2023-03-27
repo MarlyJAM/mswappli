@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eau_cristaline>
+	<premiere_bouteil>
+		<contient>150 cl</contient>
+		<pour_un_litre>
+			<ions_positifs>
+				<magnesium>5.5mg</magnesium>
+	            <calcium>71mg</calcium>
+			</ions_positifs>
+			<ions_negatifs>
+	            <chlorures>20mg</chlorures>
+	            <nitrates>1mg</nitrates>
+			</ions_negatifs>
+		</pour_un_litre>
+		<source>
+			<departement>Loiret</departement>
+			<ville>St-Cyr la Source</ville>
+		</source>
+		<info_conso>
+			<code_barre>3274080005003</code_barre>
+			<ph>7.45</ph>
+			<avertissement>Contient du fer</avertissement>
+		</info_conso>
+	</premiere_bouteil>
+	<deuxieme_bouteil>
+		<contient>50 cl</contient>
+		<source>
+			<ville>Aurèle</ville>
+			<departement>Alpes Maritimes</departement>
+		</source>
+		<pour_un_lire>
+			<ions_positifs>
+				<magnesium>4mg</magnesium>
+	            <calcium>98mg</calcium>
+			</ions_positifs>
+			<ions_negatifs>
+				<chlorures>3.6mg</chlorures>
+	            <nitrates>2mg</nitrates>
+			</ions_negatifs>
+		</pour_un_lire>
+		<info_conso>
+			<code_barre>3268840001008</code_barre>
+			<ph>7.4</ph>
+		</info_conso>
+	</deuxieme_bouteil>
+</eau_cristaline>
+<eau_volvic>
+	<contient>50 cl</contient>
+		<source>
+			<ville>Volvic</ville>
+			<departement>Puy-de-Dome</departement>
+		</source>
+		<pour_un_lire>
+			<ions_positifs>
+				<magnesium>8mg</magnesium>
+	            <calcium>11.5mg</calcium>
+			</ions_positifs>
+			<ions_negatifs>
+				<chlorures>13.5mg</chlorures>
+	            <nitrates>6.3mg</nitrates>
+			</ions_negatifs>
+		</pour_un_lire>
+		<info_conso>
+			<code_barre>3057640117008</code_barre>
+			<ph>7</ph>
+			<avertissement>Contient du silice</avertissement>
+		</info_conso>
+</eau_volvic>

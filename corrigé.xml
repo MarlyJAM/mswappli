@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cave id="cave">
+	<bouteille id="a">
+		<marque>Cristaline</marque>
+		<composition>
+			<ion type="positif"> calcium 71mg </ion>
+			<ion type="positif"> magnésium 5,5mg </ion>
+			<ion type="négatif"> chlorure 20mg </ion>
+			<ion type="négatif"> nitrate 1mg </ion>
+			<autre type="metal"> fer </autre>
+		</composition>
+		<source>
+			<ville>Saint-cyr la source</ville>
+			<departement>Loire</departement>
+		</source>
+		<code_barre> 327..</code_barre>
+		<ph>7,45</ph>
+		<contenance unit="cl"> 150</contenance>
+	</bouteille>
+	<bouteille id="b">
+		<marque>Cristaline</marque>
+		<composition>
+			<ion type="positif"> calcium 98mg </ion>
+			<ion type="positif"> magnésium 4mg </ion>
+			<ion type="négatif"> chlorure 3,6mg </ion>
+			<ion type="négatif"> nitrate 2mg </ion>
+		</composition>
+		<source>
+			<ville>Aurèle</ville>
+			<departement>Alpes Maritimes</departement>
+		</source>
+		<code_barre> 326..</code_barre>
+		<ph>7,4</ph>
+		<contenance unit="cl"> 50</contenance>
+	</bouteille>
+	<bouteille id="c">
+		<marque>Volvic</marque>
+		<composition>
+			<ion type="positif"> calcium 11,5mg </ion>
+			<ion type="positif"> magnésium 8mg </ion>
+			<ion type="négatif"> chlorure 13,5mg </ion>
+			<ion type="négatif"> nitrate 6,3mg </ion>
+			<autre type="particule"> silice </autre>
+		</composition>
+		<source>
+			<ville>Volvic</ville>
+			<departement>Puy-de-Dôme</departement>
+		</source>
+		<code_barre> 305..</code_barre>
+		<ph>7,4</ph>
+		<contenance unit="cl"> 50</contenance>
+	</bouteille>
+</cave>
